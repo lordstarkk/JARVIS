@@ -1,0 +1,7 @@
+{
+    "python.REPL.enableREPLSmartSend": false,
+    "editor.scrollbar.scrollByPage": false,
+    "editor.mouseWheelZoom": true,
+    "terminal.integrated.mouseWheelZoom": true,
+    "editor.fontSize": 15
+}
